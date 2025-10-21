@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Code Editor",
+  "description": "A web-based code editor with real-time AI-powered code suggestions from Gemini and multi-language code execution capabilities.",
+  "requestFramePermissions": []
+}
